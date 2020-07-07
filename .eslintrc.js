@@ -32,5 +32,6 @@ module.exports = {
 		quotes: ['error', 'single'],
 		semi: ['error', 'never'],
 		'no-unused-vars': 'off',
+		'react/prop-types': 0,
 	},
 }
