@@ -1,6 +1,6 @@
 # Theme Switcher 🎨
 
-Simple React UI that persists selected theme in localstorage - Built with 💙 React & Typescript
+Simple React UI that persists selected theme in localstorage - Built with React & Typescript
 
 ## How to install and run (development build) 🛠
 Using npm:
